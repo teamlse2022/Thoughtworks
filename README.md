@@ -1,6 +1,6 @@
 # Thoughworks: LSE Data Analytics Employer Partner
 
-## This repo is to store Jupyter Notebook containing code, analysis, & insights for LSE Data Analytics Employer Partner Project.
+## This repo is to store the Jupyter Notebook containing code, analysis, & insights for the Employer Partner Project.
 
 ### Objective of the project is to study cycling data in 3 major cities in order to explore for London:
 
@@ -17,3 +17,5 @@ Additionally, the project will explore:
 - Potential to engage with under-represented groups to increase overall cycling uptake.
 
 ### Download the required datafiles from this link before running the code and associated analysis: [Google Drive](https://drive.google.com/drive/folders/1fLhZFesbBWgKYrJb6d7A3781ujcFGka5).
+
+### Explore the London Mayor's [Transport Strategy](https://www.london.gov.uk/what-we-do/transport/our-vision-transport/mayors-transport-strategy-2018) for additional background information and the context of this project.
