@@ -1,14 +1,17 @@
 # Thoughtworks
 
-## Repo to store analysis, associated code, report & presentation for LSE Employer Project.
+## Repo to store Jupyter Notebook containing code, analysis, & insights for LSE Data Analytics Employer Project.
 
-### Objective of the project is to study cycling data in 3 major cities in order to explore:
+### Objective of the project is to study cycling data in 3 major cities in order to explore for London:
 
-- How can we increase cycling uptake?
+- Whether cycling uptake can be increased
 
-- What factors determine whether people cycle?
+- The factors which determine the choice to cycle
 
-- What changes to transport networks have had the greatest impact?
+- The changes to the transport network that have been the most impactful
 
-Additionally, the project will explore demographic data for each city to determine if there are any underrepresented demographic groups in London that can be engaged with in order to increase the overall uptake of cycling in the city.
+Additionally, the project will explore:
 
+- Demographic characteristics of London's cyclists
+
+- Potential to engage with under-represented groups to increase overall cycling uptake.
